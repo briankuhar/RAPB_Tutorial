@@ -7,6 +7,7 @@ gem 'rails', '4.2.1'
 gem 'pg'
 gem 'devise'
 gem 'bower-rails'
+gem 'faker'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
